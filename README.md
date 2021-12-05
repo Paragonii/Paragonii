@@ -19,9 +19,9 @@ Enjoy my github repos ig...
 
 # some of my projects: 🔨
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=kahoot-kevin&theme=dark&)](https://github.com/Random-1s/kahoot-kevin)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-paragonx&repo=utilbot&theme=dark&)](https://github.com/Random-1s/utilbot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-paragonx&repo=discord.py-bot-template&theme=dark&)](https://github.com/Random-1s/discord.py-bot-template)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-paragonx&repo=snake&theme=dark&)](https://github.com/Random-1s/Snake)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=utilbot&theme=dark&)](https://github.com/Random-1s/utilbot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=discord.py-bot-template&theme=dark&)](https://github.com/Random-1s/discord.py-bot-template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=snake&theme=dark&)](https://github.com/Random-1s/Snake)
 
 # Credits
 * [terabyte3](https://github.com/terabyte3)
