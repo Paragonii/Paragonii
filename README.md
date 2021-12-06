@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=random-1s)
 
 - 🔭 I’m currently working on a search engine called [Goobing](https://www.goobing.tk)
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning GoLang
 - 📫 How to reach me: [emael](mailto:paragonx@paragonx.tech?subject=yo%20whats%20good&body=ayo%20you%20wanna%20fried%20coke) or [Discord](https://www.paragonx.tech)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Developer of 1 nearly verified bot called [Pog Memer](https://dsc.gg/pogmemer)
