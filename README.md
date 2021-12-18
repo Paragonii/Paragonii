@@ -18,7 +18,7 @@ Enjoy my github repos ig...
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=random-1s&count_private=false&show_icons=true&theme=tokyonight)
 
 # some of my projects: 🔨
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=kahoot-kevin&theme=dark&)](https://github.com/Random-1s/kahoot-kevin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=pog-memer&theme=dark&)](https://github.com/Random-1s/Pog-Memer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=utilbot&theme=dark&)](https://github.com/Random-1s/utilbot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=discord.py-bot-template&theme=dark&)](https://github.com/Random-1s/discord.py-bot-template)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=snake&theme=dark&)](https://github.com/Random-1s/Snake)
