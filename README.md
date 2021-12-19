@@ -12,6 +12,10 @@ Really, there is not much about me tbh.
 
 Enjoy my github repos ig...
 
+# Connect with me!
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/839514280251359292)](https://discord.com/users/839514280251359292)
+<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/839514280251359292)
+
 # Stats
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=random-1s&theme=tokyonight&layout=compact)
 
