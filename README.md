@@ -30,7 +30,6 @@ Enjoy my github repos ig...
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=pog-memer&theme=dark&)](https://github.com/Random-1s/Pog-Memer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=utilbot&theme=dark&)](https://github.com/Random-1s/utilbot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=discord.py-bot-template&theme=dark&)](https://github.com/Random-1s/discord.py-bot-template)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=snake&theme=dark&)](https://github.com/Random-1s/Snake)
 
 # Credits
 * [terabyte3](https://github.com/terabyte3)
