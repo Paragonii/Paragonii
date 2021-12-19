@@ -22,14 +22,14 @@ Enjoy my github repos ig...
 # Stats
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2ij9adivn5njhfsxz0ejpskld)
 
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=random-1s&theme=tokyonight&layout=compact)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiledev&theme=tokyonight&layout=compact)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=random-1s&count_private=false&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiledev&count_private=false&show_icons=true&theme=tokyonight)
 
 # some of my projects: 🔨
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=pog-memer&theme=dark&)](https://github.com/Random-1s/Pog-Memer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=utilbot&theme=dark&)](https://github.com/Random-1s/utilbot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=random-1s&repo=discord.py-bot-template&theme=dark&)](https://github.com/Random-1s/discord.py-bot-template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tiledev&repo=pog-memer&theme=dark&)](https://github.com/TileDev/Pog-Memer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tiledev&repo=utilbot&theme=dark&)](https://github.com/TileDev/utilbot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tiledev&repo=discord.py-bot-template&theme=dark&)](https://github.com/TileDev/discord.py-bot-template)
 
 # Credits
 * [terabyte3](https://github.com/terabyte3)
