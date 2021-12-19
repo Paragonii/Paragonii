@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a search engine called [Goobing](https://www.goobing.tk)
 - 🌱 I’m currently learning GoLang
-- 📫 How to reach me: [emael](mailto:paragonx@paragonx.tech?subject=yo%20whats%20good&body=ayo%20you%20wanna%20fried%20coke) or [Discord](https://www.paragonx.tech)
+- 📫 How to reach me: [Discord](https://discord.gg/HQJypqJpsw)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Developer of 1 nearly verified bot called [Pog Memer](https://dsc.gg/pogmemer)
 
@@ -15,8 +15,13 @@ Enjoy my github repos ig...
 # Connect with me!
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/839514280251359292)](https://discord.com/users/839514280251359292)
 <img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/839514280251359292)
+<br>
+<br>
+<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[Youtube](https://www.youtube.com/c/paragonx)
 
 # Stats
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2ij9adivn5njhfsxz0ejpskld)
+
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=random-1s&theme=tokyonight&layout=compact)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=random-1s&count_private=false&show_icons=true&theme=tokyonight)
@@ -29,3 +34,4 @@ Enjoy my github repos ig...
 
 # Credits
 * [terabyte3](https://github.com/terabyte3)
+* [slowwdev](https://github.com/slowwdev)
