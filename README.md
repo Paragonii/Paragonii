@@ -1,17 +1,3 @@
-### Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-# Welcome to [my page!](https://github.com/Random-1s)
-![](https://komarev.com/ghpvc/?username=random-1s)
-
-- 🔭 I’m currently working on a search engine called [Goobing](https://www.goobing.tk)
-- 🌱 I’m currently learning GoLang
-- 📫 How to reach me: [Discord](https://discord.gg/HQJypqJpsw)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Developer of 1 nearly verified bot called [Pog Memer](https://dsc.gg/pogmemer)
-
-Really, there is not much about me tbh.
-
-Enjoy my github repos ig...
-
 # Connect with me!
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/839514280251359292)](https://discord.com/users/839514280251359292)
 <img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/839514280251359292)
