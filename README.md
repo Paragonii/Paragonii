@@ -1,7 +1,15 @@
-Content Creator, Developer
+Occupations: 
+* Content Creator
+* Developer
 
-Favorite Games: Minecraft, Batman Arkham City, Fallout: NV
+Favorite Games: 
+* Minecraft
+* Batman Arkham City
+* Fallout: NV
 
-Discord: 
+Discord(s):
+* Coding: https://discord.gg/MfgSQrJ3sY
+* Community: https://discord.gg/Yg2TaHTPnd
 
-Youtube:
+YouTube:
+* https://youtube.com/c/ChlorineOfficial
