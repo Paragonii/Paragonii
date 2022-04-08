@@ -13,3 +13,8 @@ Discord(s):
 
 YouTube:
 * https://youtube.com/c/ChlorineOfficial
+
+Langs:
+* Python
+* Fortran
+* HTML
