@@ -18,3 +18,4 @@ Langs:
 * Python
 * Fortran
 * HTML
+* Rust
