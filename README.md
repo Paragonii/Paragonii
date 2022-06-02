@@ -14,6 +14,9 @@ Discord(s):
 YouTube:
 * https://youtube.com/c/ChlorineOfficial
 
+Website:
+* https://paragonx.tech
+
 Langs:
 * Python
 * Fortran
