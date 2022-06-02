@@ -22,3 +22,8 @@ Langs:
 * Fortran
 * HTML
 * Rust
+
+Learning:
+* C++
+* Java
+* Brainf*ck
