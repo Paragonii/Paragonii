@@ -14,6 +14,9 @@ Discord(s):
 YouTube:
 * https://youtube.com/c/ChlorineOfficial
 
+And now Instagram:
+* https://www.instagram.com/paragonii_/
+
 Website:
 * https://paragonx.tech
 
@@ -26,4 +29,3 @@ Langs:
 Learning:
 * C++
 * Java
-* Brainf*ck
