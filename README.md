@@ -1,3 +1,8 @@
+Personal Info:
+* Why do you need this first of all
+* 14
+* Grade 9
+
 Occupations: 
 * Content Creator
 * Developer
@@ -26,6 +31,10 @@ Langs:
 * HTML
 * Rust
 
-Learning:
+Learning Langs:
 * C++
 * Java
+
+Learning Dev:
+* Game Dev
+* Minceraft Client Dev
