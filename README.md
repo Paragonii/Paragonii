@@ -11,6 +11,8 @@ Favorite Games:
 * Minecraft
 * Batman Arkham City
 * Fallout: NV
+* GTA
+* Microsoft: Solitaire Collection (call me old idc)
 
 Discord(s):
 * Coding: https://discord.gg/MfgSQrJ3sY
