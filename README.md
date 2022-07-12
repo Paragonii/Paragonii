@@ -14,7 +14,8 @@ Favorite Games:
 
 Discord(s):
 * Coding: https://discord.gg/MfgSQrJ3sY
-* Community: https://discord.gg/Yg2TaHTPnd
+* YT: https://discord.gg/Yg2TaHTPnd
+* Community: https://discord.gg/f8hBWvft8z
 
 YouTube:
 * https://youtube.com/c/ChlorineOfficial
