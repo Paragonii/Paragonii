@@ -36,7 +36,7 @@ Langs:
 
 Learning Langs:
 * C++
-* Java
+* JavaScript
 
 Learning Dev:
 * Game Dev
